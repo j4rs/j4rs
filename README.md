@@ -21,7 +21,7 @@
 
 - 🚛 **Fleetio** — Senior Software Engineer II on the Web Engineering team. Backend Rails, APIs, and the occasional system-level spike.
 - 🚀 **Get on Board** — co-founded [getonbrd.com](https://getonbrd.com), a tech jobs platform for Latin America.
-- 🤖 Big believer in AI-assisted development workflows — coding agents, MCP servers, and making the boring parts of shipping software disappear.
+- 🤖 Big believer in Agentic-AI development workflows — coding agents, MCP servers, and making the boring parts of shipping software disappear.
 - 🛠️ I like small, sharp tools: one-line async in Ruby, a Slack bot that remembers your standup for you, a DIY pool controller.
 
 ## 📌 Things I've built (or forked and bent to my needs)

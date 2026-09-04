@@ -29,11 +29,11 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [pipedrive-connect](https://github.com/getonbrd/pipedrive-connect) | Ruby client for the Pipedrive API | Ruby |
-| [poolctl](https://github.com/j4rs/poolctl) | DIY pool/spa controller UI replacing a Pentair IntelliConnect, built on nodejs-poolController | JavaScript |
+| [poolctl](https://github.com/j4rs/poolctl) | DIY pool/spa controller UI replacing a Pentair IntelliConnect | JavaScript |
 | [exec_async](https://github.com/j4rs/exec_async) | Make any Ruby method async with one line | Ruby |
 | [react-hooks](https://github.com/j4rs/react-hooks) | Utility hooks collected from real projects | JavaScript |
 | [standup-echo](https://github.com/j4rs/standup-echo) | Slack bot that DMs you yesterday's standup when today's thread opens | Go |
-| [symphony](https://github.com/j4rs/symphony) | 🍴 Fork of OpenAI's Symphony, customized for my own runs — autonomous, isolated implementation runs for coding agents | Elixir |
+| [symphony](https://github.com/j4rs/symphony) | 🍴 Fork of OpenAI's Symphony, customized for my own coding agents | Elixir |
 
 <sub>🍴 = forked and customized for my own projects</sub>
 
@@ -48,7 +48,3 @@
 - 💼 Work: [fleetio.com](https://fleetio.com)
 - 🧑‍💻 Side project: [getonbrd.com](https://getonbrd.com)
 - 📬 Open an issue on any of my repos — I read them.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=j4rs&style=flat-square&color=blueviolet" alt="Profile views"/>
-</p>

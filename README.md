@@ -1,4 +1,4 @@
-<h1 align="center">Jorge here — most people call me <code>jars</code> 👋</h1>
+<h1 align="center">Jorge here — some people call me <code>jars</code> 👋</h1>
 
 <p align="center">
   Senior full-stack engineer building software at <a href="https://fleetio.com">Fleetio</a><br/>

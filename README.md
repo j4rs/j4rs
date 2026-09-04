@@ -42,9 +42,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=j4rs&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 </p>
-
-## 🤝 Let's connect
-
-- 💼 Work: [fleetio.com](https://fleetio.com)
-- 🧑‍💻 Side project: [getonbrd.com](https://getonbrd.com)
-- 📬 Open an issue on any of my repos — I read them.

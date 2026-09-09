@@ -25,9 +25,4 @@
 | [standup-echo](https://github.com/j4rs/standup-echo) | Slack bot that DMs you yesterday's standup when today's thread opens | Go |
 | [react-hooks](https://github.com/j4rs/react-hooks) | Utility hooks collected from real projects | JavaScript |
 
-### ✍️ Writing
-
-[medium.com/@j4rs](https://medium.com/@j4rs) — Rack Attack, Rails 7 and old signed messages, our payment subsystem, Heroku review apps, and why I don't like 1:1s (in Spanish).
-
----
 <sub>Written with Claude's assistance; the facts and the opinions are mine.</sub>

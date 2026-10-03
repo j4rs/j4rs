@@ -8,9 +8,9 @@
 ### 🧭 What I'm about
 
 - 🚛 **Fleetio** — Senior Software Engineer II. Rails backend, React frontend, APIs, and the occasional system-level spike.
-- 🚀 **Get on Board** — co-founder of [getonbrd.com](https://getonbrd.com), the best tech jobs for Latin America. A Rails monolith I started in 2011 to learn Rails and have been on call for ever since.
-- 🤖 In 2026 most of the code I land there is written by agents. I run a fork of OpenAI's Symphony against the repo, and my job is the `WORKFLOW.md` they follow, the skills they use, and the review before anything ships. When a PR is bad, the fix is usually a missing sentence in the docs.
-- ☸️ Also this year: moved it from Heroku to AKS (ArgoCD, sealed secrets, blue-green) and wrote the runbooks.
+- 🚀 **Get on Board** — co-founder of [getonbrd.com](https://getonbrd.com), the best tech jobs for Latin America. A Rails monolith I started in 2011 to learn Rails, and I've been on call ever since.
+- 🤖 Since 2026, most of the code I land in Get on Board is written by agents. I run a fork of OpenAI's Symphony against the repo, and my job is the `WORKFLOW.md` they follow, the skills they use, and the review before anything ships. When a PR is bad, the fix is usually a missing sentence in the docs.
+- ☸️ Also this year: moved Get on Board from Heroku to our own K8S cluster.
 
 ### 📌 Things I've built or forked
 
